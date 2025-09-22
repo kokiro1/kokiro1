@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
- ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️
+
 </h3>
 <p align="center">
   <img src="https://w.wallhaven.cc/full/zp/wallhaven-zpxjjo.jpg" width:"800" height="400"> 
