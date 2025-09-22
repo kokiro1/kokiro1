@@ -1,16 +1,14 @@
-## Hi there 👋
+<h3 align="center">
+ hi, i'm Lucas and i'm currently studying to be a System Analyst at Da Vinci's College.
+</h3>
 
-<!--
-**kokiro1/kokiro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️
+</h3>
+<p align="center">
+  <img src="https://w.wallhaven.cc/full/zp/wallhaven-zpxjjo.jpg" width:"800" height="400"> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I'm 21, a Technology Enthusiast. I use this profile to upload my university projects and assignments while also seeking my first job opportunity in the tech field. In my free time, I'm learning (even more) about Linux, training, or studying for college.
+</p>
