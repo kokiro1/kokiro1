@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
  hi, i'm Lucas and i'm currently studying to be a System Analyst at Da Vinci's College.
-</h3>
+</h2>
 
 <h3 align="center">
  ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️ ▪️
