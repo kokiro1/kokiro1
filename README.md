@@ -1,14 +1,37 @@
 <h2 align="center">
- hi, i'm Lucas and i'm currently studying to be a System Analyst at Da Vinci's College.
+ hi, i'm Lucas | System Analysis Student at Da Vinci's College
 </h2>
 
 <h3 align="center">
 
 </h3>
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/zp/wallhaven-zpxjjo.jpg" width:"800" height="400"> 
+  <img src="https://w.wallhaven.cc/full/1q/wallhaven-1q83qg.jpg" width:"800" height="400"> 
 </p>
 
 <p align="center">
-  I'm 21, a Technology Enthusiast. I use this profile to upload my university projects and assignments while also seeking my first job opportunity in the tech field. In my free time, I'm learning (even more) about Linux, training, or studying for college.
+ 21 years old| Tech Enthusiast | Seeking for my first job opportunity in Tech
 </p>
+<p align="center">
+I use this profile to showcase my university projects and assignments as I seek my first opportunity in the tech industry. I am actively looking for an internship or junior-level position to gain real-world experience.
+</p>
+<p align="center">
+In my free time, I'm deepening my knowledge of Linux, training, and studying for my degree. Please feel free to reach out to me using the contact information below.
+</p>
+
+<h3 align="center">
+ some skills that i have:
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
+<h3 align="center">contact with me :D</h3>
+
+<p align="center">
+  <a href="mailto:tu.email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+
