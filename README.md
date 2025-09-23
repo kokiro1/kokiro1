@@ -28,7 +28,7 @@ In my free time, I'm deepening my knowledge of Linux, training, and studying for
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-<h3 align="center">contact with me :D</h3>
+<h3 align="center">contact with me </h3>
 
 <p align="center">
   <a href="mailto:lucasgabrielramirez2004@gmail.com">
